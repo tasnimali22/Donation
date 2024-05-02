@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "409930007294",
+    "project_id": "gethubb-a78de",
+    "storage_bucket": "gethubb-a78de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409930007294:android:c2e8667c4f751332a5dbaf",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkDqW_2vEDgojM9MbFVsh0L1ZAH_HS1RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409930007294:android:90c7484b8482f4d1a5dbaf",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkDqW_2vEDgojM9MbFVsh0L1ZAH_HS1RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
